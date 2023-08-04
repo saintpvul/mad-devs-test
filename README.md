@@ -1,22 +1,22 @@
--   # Running "mad-devs-test" Using Docker
+# Running "mad-devs-test" Using Docker
 
 To run the "mad-devs-test" application using Docker, follow these steps:
 
-1.  **##Install Docker**: Ensure that Docker is installed on your computer. If Docker is not installed, you can download it [here](https://www.docker.com/get-started).
+1.  **Install Docker**: Ensure that Docker is installed on your computer. If Docker is not installed, you can download it [here](https://www.docker.com/get-started).
 
-2.  **##Clone the Repository**: First, clone the "mad-devs-test" repository to your computer using bash or command prompt:
+2.  **Clone the Repository**: First, clone the "mad-devs-test" repository to your computer using bash or command prompt:
 
         ```bash
         git clone https://github.com/saintpvul/mad-devs-test.git
         ```
 
-3.  **##Navigate to the directory**: Change your working directory to the project's directory:
+3.  **Navigate to the directory**: Change your working directory to the project's directory:
 
         ```bash
         cd mad-devs-test
         ```
 
-4.  **##Build and Run the Container**: To build and run the "mad-devs-test" container, follow these steps:
+4.  **Build and Run the Container**: To build and run the "mad-devs-test" container, follow these steps:
 
     -   Open a terminal and navigate to the root directory of the repository.
 
@@ -36,7 +36,7 @@ To run the "mad-devs-test" application using Docker, follow these steps:
 
     > :warning: **Warning:** Remember, these commands assume that you have Docker installed on your machine. If not, you can download and install Docker from [here](https://www.docker.com/get-started).
 
-5.  **##Stop the Container**: To stop the container, run the following command:
+5.  **Stop the Container**: To stop the container, run the following command:
 
         ```bash
         docker stop <CONTAINER_ID>
@@ -46,7 +46,7 @@ To run the "mad-devs-test" application using Docker, follow these steps:
 
 That's it! You've successfully run the application using Docker.
 
--   # Running "mad-devs-test"
+# Running "mad-devs-test"
 
     To run this application locally on your machine, follow these steps:
 
