@@ -50,7 +50,7 @@ To run this application locally on your machine, follow these steps:
 
 3.  **Install a Local Server:** You'll need a local server to properly serve the files. If you have Node.js installed (if you have not click [here](https://nodejs.org/en)), you can use the `http-server` package:
 
-        cd mad-devs-test
+        npm install -g http-server
 
 4.  **Start the Local Server:** Run the following command to start the local server:
 
